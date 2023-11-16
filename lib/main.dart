@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Shared Preferences Demo',
+      title: 'Shared Preferences',
       theme: ThemeData(primarySwatch: Colors.blue),
       home: const HomePage(),
     );
